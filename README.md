@@ -4,5 +4,4 @@
 
 - 💻 Desenvolvedora de Software 
 - 📚 Formada em Engenharia de Produção
-- 📚 Pós graduanda em Engenharia de Software
-
+- 📚 Pós graduanda em Engenharia de Dados
